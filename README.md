@@ -12,7 +12,7 @@ I love using data to **solve complex business problems**, improve customer exper
 - Exploring **MLOps and cloud technologies (AWS, GCP)**
 
 ### 🌱 Currently learning
-- Advanced **Machine Learning** and **Data Engineering** practices  
+- Advanced **Machine Learning** and **Risk Assessment** practices  
 - **Python automation** and **data pipeline optimization**
 
 ### 👯 Looking to collaborate on
