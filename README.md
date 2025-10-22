@@ -26,7 +26,7 @@ I love using data to **solve complex business problems**, improve customer exper
 ### 📫 How to reach me
 - ✉️ [jalet2093@gmail.com](mailto:jalet2093@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jalet2093)  
-- 🌍 [Portfolio coming soon]
+
 
 ### ⚡ Fun fact
 When I’m not coding, you’ll probably find me indoor climbing 🧗‍♀️, exploring new places, or watching *Friends* on Netflix ☕️.
