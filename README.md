@@ -7,7 +7,7 @@ I love using data to **solve complex business problems**, improve customer exper
 ---
 
 ### 🔭 What I'm working on
-- Data Science projects focused on financial analytics and customer behavior
+- Data Science projects focused on financial analytics, customer behavior and people analytics
 - Improving my English communication and presentation skills
 - Exploring **MLOps and cloud technologies (AWS, GCP)**
 
